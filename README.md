@@ -1,8 +1,8 @@
-# vuetugasakhir
+# VueJS-LandingPage_RandomizE
 
 ## Project setup
 ```
-npm install
+npm install project_name
 ```
 
 ### Compiles and hot-reloads for development
